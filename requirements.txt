@@ -1,0 +1,3 @@
+intersight==1.0.11.2026030507
+kafka-python==2.3.0
+python-dotenv==1.1.1
